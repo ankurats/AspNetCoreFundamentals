@@ -52,14 +52,34 @@ For this section it's a good idea to have Vs Code installed or you can open it i
   
           dotnet restore
      
-   Add a Startup.cs file that defines the request handling logic:
+  Add a Startup.cs file that defines the request handling logic:
     
-      using System;
-      using Microsoft.AspNetCore.Hosting;
+    using System;
+    using Microsoft.AspNetCore.Builder;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.AspNetCore.Http;
 
-      namespace movingtoweb
+     namespace movingtoweb
+    {
+      public class Startup
+      {
+        public void Configure(IApplicationBuilder app)
         {
-      public class Program
+            app.Run(context =>
+            {
+                return context.Response.WriteAsync("Hello Web!");
+            });
+        }
+      }
+    }
+    
+  Update Program.cs to setup and start the web host:
+        using System;
+        using Microsoft.AspNetCore.Hosting;
+
+        namespace movingtoweb
+          {
+       public class Program
          {
            public static void Main(string[] args)
                {
