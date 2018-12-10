@@ -45,13 +45,15 @@ For this section it's a good idea to have Vs Code installed or you can open it i
 
 *Option 2: Hello World Console to Hello World Web*
 
-    Add package using dotnet cli
-      - You can also add a package using the dotnet CLI dotnet add package Microsoft.AspNetCore
+   Add package using dotnet cli
+   
+      - You can also add a package using the dotnet CLI *dotnet add package Microsoft.AspNetCore*
       - Restore the packages
   
-     dotnet restore
+          dotnet restore
      
-     Add a Startup.cs file that defines the request handling logic:
+   Add a Startup.cs file that defines the request handling logic:
+    
       using System;
       using Microsoft.AspNetCore.Hosting;
 
