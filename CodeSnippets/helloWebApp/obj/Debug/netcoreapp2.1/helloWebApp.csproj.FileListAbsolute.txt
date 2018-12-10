@@ -1,0 +1,14 @@
+C:\Users\ankur.pathak\Desktop\helloWebApp\bin\Debug\netcoreapp2.1\helloWebApp.deps.json
+C:\Users\ankur.pathak\Desktop\helloWebApp\bin\Debug\netcoreapp2.1\helloWebApp.runtimeconfig.json
+C:\Users\ankur.pathak\Desktop\helloWebApp\bin\Debug\netcoreapp2.1\helloWebApp.runtimeconfig.dev.json
+C:\Users\ankur.pathak\Desktop\helloWebApp\bin\Debug\netcoreapp2.1\helloWebApp.dll
+C:\Users\ankur.pathak\Desktop\helloWebApp\bin\Debug\netcoreapp2.1\helloWebApp.pdb
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.csprojAssemblyReference.cache
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.RazorAssemblyInfo.cache
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.RazorAssemblyInfo.cs
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.AssemblyInfoInputs.cache
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.AssemblyInfo.cs
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.dll
+C:\Users\ankur.pathak\Desktop\helloWebApp\obj\Debug\netcoreapp2.1\helloWebApp.pdb
