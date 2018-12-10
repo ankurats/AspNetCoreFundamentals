@@ -30,7 +30,7 @@ For this section it's a good idea to have Vs Code installed or you can open it i
 
 **Edit Code 
 
-Option 1: Consider updating program.cs to accept input
+*Option 1: Consider updating program.cs to accept input
 
       public static void Main(string[] args)
           {
@@ -42,3 +42,11 @@ Option 1: Consider updating program.cs to accept input
             Console.WriteLine($"Hello {name} thanks for using this material");
             
         }
+
+*Option 2: Hello World Console to Hello World Web
+
+  Add package using dotnet cli
+    - You can also add a package using the dotnet CLI dotnet add package Microsoft.AspNetCore
+    - Restore the packages
+  
+  
