@@ -1,0 +1,14 @@
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.deps.json
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.runtimeconfig.json
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.runtimeconfig.dev.json
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.dll
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\bin\Debug\netcoreapp2.1\WebApplication5.pdb
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.csprojAssemblyReference.cache
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.RazorAssemblyInfo.cache
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.RazorAssemblyInfo.cs
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.AssemblyInfoInputs.cache
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.AssemblyInfo.cs
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.RazorTargetAssemblyInfo.cache
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.dll
+C:\Users\ankur.pathak\source\repos\WebApplication5\WebApplication5\obj\Debug\netcoreapp2.1\WebApplication5.pdb
