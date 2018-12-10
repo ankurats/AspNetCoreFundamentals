@@ -28,7 +28,7 @@ Run app
    
 For this section it's a good idea to have Vs Code installed or you can open it in notepad. You can [download](https://code.visualstudio.com/) it here.   
 
-**Edit Code 
+**Edit Code** 
 
 *Option 1: Consider updating program.cs to accept input*
 
@@ -49,4 +49,24 @@ For this section it's a good idea to have Vs Code installed or you can open it i
       - You can also add a package using the dotnet CLI dotnet add package Microsoft.AspNetCore
       - Restore the packages
   
-  
+     dotnet restore
+     
+     Add a Startup.cs file that defines the request handling logic:
+      using System;
+      using Microsoft.AspNetCore.Hosting;
+
+      namespace movingtoweb
+        {
+      public class Program
+         {
+           public static void Main(string[] args)
+               {
+            var host = new WebHostBuilder()
+                .UseKestrel()
+                .UseStartup<Startup>()
+                .Build();
+
+               host.Run();
+             }
+         }
+      }
