@@ -27,3 +27,18 @@ Run app
     dotnet run
    
 For this section it's a good idea to have Vs Code installed or you can open it in notepad. You can [download](https://code.visualstudio.com/) it here.   
+
+**Edit Code 
+
+Option 1: Consider updating program.cs to accept input
+
+      public static void Main(string[] args)
+          {
+            string name;
+            
+            Console.WriteLine("What's your name?");
+            name = Console.ReadLine();
+
+            Console.WriteLine($"Hello {name} thanks for using this material");
+            
+        }
